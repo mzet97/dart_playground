@@ -18,7 +18,7 @@ void main(List<String> agrs){
   double num1 = getDado("Digite numero grupo 1.1"); //1.1
   double num2 = getDado("Digite numero grupo 1.2"); //1.2
   double num3 = getDado("Digite numero grupo 2.1"); //2.1
-  double num4 = getDado("Digite numero grupo 2.3"); //2.2
+  double num4 = getDado("Digite numero grupo 2.2"); //2.2
 
   if(num1 == 0){
     num1 = (num2 * num3) / num4;
